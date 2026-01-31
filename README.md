@@ -1,6 +1,6 @@
 # DIP_Semester-Project_100049
-
-**Pencil_sketch_Project**
+ **Pencil_sketch_Project**
+ 
 Simple Python Code to Convert Images into a Pencil Sketch Using OpenCV
 
   **Overview**
